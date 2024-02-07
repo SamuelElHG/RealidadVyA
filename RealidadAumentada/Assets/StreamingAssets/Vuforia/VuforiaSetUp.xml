@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="TarjetaPresentacion" size="650.000000 420.816742" />
     <ImageTarget name="Target" size="438.000000 439.000000" />
   </Tracking>
 </QCARConfig>

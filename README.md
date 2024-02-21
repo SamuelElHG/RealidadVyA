@@ -1,4 +1,4 @@
-#Proyecto de Realidad Aumentada 
+# Proyecto de Realidad Aumentada 
 Realizado por: 
 * Samuel Hernadez
 * Nicolás Villa
